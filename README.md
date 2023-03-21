@@ -18,7 +18,7 @@ Vous pouvez aussi jeter un coup d'oeuil aux autres codes qui sont moins intéres
 
 Au niveau de la répartition du travail : 
 
-- Romain : principalement l'aspect visuel du site (style et images -> 154 ! )
+- Romain : ????
 - Aymeric : plutôt tout ce qui est JavaScript et html (coordinations des pages entres elles)
 
 Pour collaborer nous avons utilisé le site web GitHub lié à la fonctionnalité git (nous en parlerons dans notre présentation)
