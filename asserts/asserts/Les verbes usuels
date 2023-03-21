@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Language des signes</title>
+    <link rel="shortcut icon" href="asserts/logo.jpg" />
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body class="type2">
+    <header>
+        <nav>
+            <ul class="bandeau">
+                <li><a href="./index.html" title="Page d'accueil de Dmark" id="logo"><img src="./asserts/logo.jpg" class="logo" alt="logo"></a></li>
+                <li><a href="./index.html" title="Page d'accueil de Dmark" id="accueil" class="bouton">Accueil</a></li>
+                <li><a href="./cours.html" id="cours" class="bouton" title="Aller à la page Cours">Cours</a></li>
+                <li><a href="./exercice.html" id="exercice" class="bouton" title="Aller à la page Exercices">Exercices</a></li>
+                <li><a href="./journal.html" id="journal" class="bouton" title="Aller à la page Journal">Journal</a></li>
+                <li><a href="./connection.html" id="connection"title="Connection">Connection</a></li>
+            </ul>
+        </nav>
+    </header>
+
+
+    <main class="simple">
+    <h1>Les verbes usuels</h1>
+    <section style="background-color: rgba(255, 255, 255, 0.575);">
+        <img src="./asserts/LL.PNG" class="img_cours" width="12%">
+        <img src="./asserts/LL2.PNG" class="img_cours" width="12%">
+        <img src="./asserts/LL3.PNG" class="img_cours" width="12%">
+        <img src="./asserts/LL4.PNG" class="img_cours" width="12%">
+    </section>
+    </main>
+</body>
+</html>
