@@ -23,3 +23,8 @@ Au niveau de la répartition du travail :
 
 Pour collaborer nous avons utilisé le site web GitHub lié à la fonctionnalité git (nous en parlerons dans notre présentation)
 
+
+lien de la vidéo pour créer un serveur + nouvelle architecture demandée : 
+- https://youtu.be/Bn0k9DDYBZM
+lien de la vidéo pour le hand tracking : 
+- https://youtu.be/NZde8Xt78Iw
